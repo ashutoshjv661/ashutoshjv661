@@ -15,11 +15,11 @@ Hi, I'm Ashutosh Jadhav, a Full Stack developer 🚀 from India.
 - [Youtube - @urindiancoder](https://www.youtube.com/channel/UCM7jDyvtFLZtW_Qa6o6ndVQ)
 and I write blog posts on my blog.
 
-🔭 I’m currently doing Interview Preparation for SWE or SDE roles.
-🌱 I’m currently learning Web Development and Flutter Full Stack Developement.
+- 🔭 I’m currently doing Interview Preparation for SWE or SDE roles.
+- 🌱 I’m currently learning Web Development and Flutter Full Stack Developement.
 
--📫 How to reach me: 
--You can mail me => urindiancoder@gmail.com
+- 📫 How to reach me: 
+- You can mail me => urindiancoder@gmail.com
 
 - ⚡ Fun fact: I am learning Chess in lockdown ♟ 
 
