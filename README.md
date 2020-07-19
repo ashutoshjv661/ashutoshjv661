@@ -17,14 +17,12 @@ Beside's developing stuff, I make youtube videos [UrIndianCoder](https://www.you
 🔭 I’m currently doing Interview Preparation for SWE or SDE roles.
 🌱 I’m currently learning Web Development and Flutter Full Stack Developement.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/CTX0ivSQbI78A/source.gif" />
-  
-
 📫 How to reach me: 
 You can mail me => urindiancoder@gmail.com
 ⚡ Fun fact: I am learning Chess in lockdown ♟ 
 
 &nbsp;
+
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
