@@ -10,9 +10,8 @@
   <img align="left" alt="Ashutosh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-Hi, I'm Ashutosh Jadhav, a Full Stack developer 🚀 from India. 
-- Beside's developing stuff, I make youtube videos 
-- [Youtube - @urindiancoder](https://www.youtube.com/channel/UCM7jDyvtFLZtW_Qa6o6ndVQ)
+- Hi, I'm Ashutosh Jadhav, a Full Stack developer 🚀 from India. 
+- Beside's developing stuff, I make youtube videos [Youtube - @urindiancoder](https://www.youtube.com/channel/UCM7jDyvtFLZtW_Qa6o6ndVQ)
 and I write blog posts on my blog.
 
 - 🔭 I’m currently doing Interview Preparation for SWE or SDE roles.
@@ -21,7 +20,7 @@ and I write blog posts on my blog.
 - 📫 How to reach me: 
 - You can mail me => urindiancoder@gmail.com
 
-- ⚡ Fun fact: I am learning Chess in lockdown ♟ 
+- ⚡ Fun fact: I am also learning Chess in lockdown ♟ 
 
 &nbsp;
 
