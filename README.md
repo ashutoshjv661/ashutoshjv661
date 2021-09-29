@@ -1,8 +1,5 @@
 ### Hi there 👋, I'am Ashutosh Jadhav
 
-<a href="https://twitter.com/ashutoshjv661">
-  <img align="left" alt="Ashutosh Jadhav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/ashutoshjadhav661">
   <img align="left" alt="Ashutosh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,15 +11,12 @@
 &nbsp;
 - Hi, I'm Ashutosh Jadhav, a Full Stack developer 🚀 from India. 
 - Beside's developing stuff, I make youtube videos [Youtube - @urindiancoder](https://www.youtube.com/channel/UCM7jDyvtFLZtW_Qa6o6ndVQ)
-and I write blog posts on my blog.
 
 - 🔭 I’m currently doing Interview Preparation for SWE or SDE roles.
 - 🌱 I’m currently learning Web Development and Flutter Full Stack Developement.
 
 - 📫 How to reach me: 
 - You can mail me => urindiancoder@gmail.com
-
-- ⚡ Fun fact: I am also learning Chess in lockdown ♟ 
 
 &nbsp;
 
