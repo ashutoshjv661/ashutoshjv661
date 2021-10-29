@@ -13,7 +13,7 @@
 - Beside's developing stuff, I make youtube videos [Youtube - @urindiancoder](https://www.youtube.com/channel/UCM7jDyvtFLZtW_Qa6o6ndVQ)
 
 - 🔭 I’m currently doing Interview Preparation for SWE or SDE roles.
-- 🌱 I’m currently learning Web Development and Flutter Full Stack Developement.
+- 🌱 I’m currently learning Web Full Stack Developement.
 
 - 📫 How to reach me: 
 - You can mail me => urindiancoder@gmail.com
