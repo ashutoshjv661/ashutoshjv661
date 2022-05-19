@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am Ashutosh Jadhav
 
-<a href="https://www.linkedin.com/in/ashutoshjadhav661">
+<a href="https://www.linkedin.com/in/ashutoshjv_">
   <img align="left" alt="Ashutosh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/ashutoshjv661">
