@@ -9,11 +9,11 @@
 
 
 &nbsp;
-- Hi, I'm Ashutosh Jadhav, a Systems Engineer @ TCS 🚀 from India. 
+- Hi, I'm Ashutosh Jadhav, exTCSer 🚀 from India. 
 - Beside's developing stuff, I make youtube videos [Youtube - @urindiancoder](https://www.youtube.com/channel/UCM7jDyvtFLZtW_Qa6o6ndVQ)
 
 - 🔭 I’m currently doing Interview Preparation for SWE or SDE roles.
-- 🌱 I’m currently learning Full Stack Web Developement.
+- 🌱 I’m currently learning Full Stack Web Developement and Interested in learning about Web3.0, Mobile App Dev and Cyber Security.
 
 - 📫 How to reach me: 
 - You can mail me => urindiancoder@gmail.com
