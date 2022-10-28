@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'am Ashutosh Jadhav
+# Hi there 👋
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/31470393/198544721-cad57540-5840-4694-a516-80c2f66b5003.gif" width="40%" height="40%"/>
