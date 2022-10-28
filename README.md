@@ -1,8 +1,12 @@
+
 ### Hi there 👋, I'am Ashutosh Jadhav
+
+<img src="https://user-images.githubusercontent.com/31470393/198544721-cad57540-5840-4694-a516-80c2f66b5003.gif" width="25%" height="25%"/>
 
 <a href="https://www.linkedin.com/in/ashutoshjadhav661">
   <img align="left" alt="Ashutosh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <a href="https://www.instagram.com/ashutoshjv_">
   <img align="left" alt="Ashutosh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
