@@ -1,19 +1,12 @@
 
-# Hi there 👋
-<p align="center">
-  
-<img src="https://user-images.githubusercontent.com/31470393/198544721-cad57540-5840-4694-a516-80c2f66b5003.gif" width="40%" height="40%"/>
-  <br/>
+# Hi there 👋 
 <a href="https://www.linkedin.com/in/ashutoshjadhav661">
   <img alt="Ashutosh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/ashutoshjv_">
   <img alt="Ashutosh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-  
-<p/>
 
-&nbsp;
 - Hi, I'm Ashutosh Jadhav, exTCSer 🚀 from India. 
 - Beside's developing stuff, I make youtube videos [Youtube - @urindiancoder](https://www.youtube.com/channel/UCM7jDyvtFLZtW_Qa6o6ndVQ)
 
