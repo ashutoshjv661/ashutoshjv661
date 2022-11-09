@@ -1,5 +1,6 @@
 
 # Hi there 👋 
+
 <a href="https://www.linkedin.com/in/ashutoshjadhav661">
   <img alt="Ashutosh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -7,17 +8,12 @@
   <img alt="Ashutosh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+
 - Hi, I'm Ashutosh Jadhav, exTCSer 🚀 from India. 
 - Beside's developing stuff, I make youtube videos [Youtube - @urindiancoder](https://www.youtube.com/channel/UCM7jDyvtFLZtW_Qa6o6ndVQ)
-
-- 🔭 I’m currently doing Interview Preparation for SWE or SDE roles.
 - 🌱 I’m currently learning Full Stack Web Developement and Interested in learning about Web3.0, Mobile App Dev and Cyber Security.
-
-- 📫 How to reach me: 
-- You can mail me => urindiancoder@gmail.com
-
+- 📫 You can mail me at => urindiancoder@gmail.com
 &nbsp;
-
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
