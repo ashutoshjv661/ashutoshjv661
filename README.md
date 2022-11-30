@@ -1,10 +1,9 @@
-<h1 align="center"> Hi there, I am Ashutosh
+<h1 align="center"> Hi there, I am Ashutosh 🇮🇳
 </h1>
 
 &nbsp;
 
 - 😄 Pronouns: He/His
-- exTCSer 🚀 from India. 
 - Beside's developing stuff, I make youtube videos [Youtube - @urindiancoder](https://www.youtube.com/channel/UCM7jDyvtFLZtW_Qa6o6ndVQ)
 - 🌱 I’m currently learning Full Stack Web Developement and Interested in learning about Web3.0, Mobile App Dev and Cyber Security.
 - 📫 You can mail me at => urindiancoder@gmail.com
