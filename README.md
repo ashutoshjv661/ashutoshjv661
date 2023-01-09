@@ -8,7 +8,6 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashutoshjv661&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshjv661&theme=vue" />
 </p>
 
